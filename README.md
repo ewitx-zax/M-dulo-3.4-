@@ -151,7 +151,7 @@ Goals:
 
 <div align="center">
 
-<img width="78%" src="https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO&theme=tokyo-night&hide_border=true&bg_color=0D1117"/>
+
 
 </div>
 
